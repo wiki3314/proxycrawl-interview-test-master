@@ -1,0 +1,21 @@
+{
+  "name": "proxycrawl-interview-test-master",
+  "version": "1.0.0",
+  "description": "Welcome to ProxyCrawl test, if you haven't applied for a job offer yet, please do so before starting the test by emailing us at `jobs at proxycrawl dot com`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^4.2.1",
+    "axios": "^0.24.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
